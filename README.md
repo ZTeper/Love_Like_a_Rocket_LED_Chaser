@@ -14,7 +14,7 @@ flying rocket.
 
 <!-- How much is it going to cost? -->
 
-The total cost is roughly $50 CAD.
+The total cost is roughly $8 CAD.
 
 <!-- Tell us a little bit about your design process. What were some challenges? What helped? ***Totally optional*** -->
 
